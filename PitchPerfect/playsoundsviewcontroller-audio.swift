@@ -159,7 +159,7 @@ extension PlaySoundsViewController: AVAudioPlayerDelegate {
         rabbitButton.isEnabled = enabled
         darthVaderButton.isEnabled = enabled
         echoButton.isEnabled = enabled
-        reverButton.isEnabled = enabled
+        reverbButton.isEnabled = enabled
     }
 
     func showAlert(_ title: String, message: String) {

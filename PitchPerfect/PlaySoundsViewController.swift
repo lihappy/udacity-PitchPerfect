@@ -16,7 +16,7 @@ class PlaySoundsViewController: UIViewController {
     @IBOutlet weak var chipmunkButton: UIButton!
     @IBOutlet weak var darthVaderButton: UIButton!
     @IBOutlet weak var echoButton: UIButton!
-    @IBOutlet weak var reverButton: UIButton!
+    @IBOutlet weak var reverbButton: UIButton!
     @IBOutlet weak var stopButton: UIButton!
     
     var recordedAudioURL: URL!
